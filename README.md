@@ -3,7 +3,7 @@
 <img
   align="right"
   src="https://github.com/user-attachments/assets/a83e0689-db34-4425-92fb-e6274ac99baf"
-  width="320"
+  width="300"
   alt="Natwar Upadhyay"
 />
 
