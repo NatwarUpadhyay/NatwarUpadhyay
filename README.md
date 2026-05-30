@@ -1,21 +1,23 @@
-# 💫 About Me:
+# 💫 About Me
 
 <img
   align="right"
   src="https://github.com/user-attachments/assets/a83e0689-db34-4425-92fb-e6274ac99baf"
-  width="220"
+  width="180"
   alt="Natwar Upadhyay"
 />
 
-🏗️ Building Production-Grade Agentic AI Systems
-<br>
-<br>
+### 🏗️ Building Production-Grade Agentic AI Systems
+
+**Associate Lead, Agentic AI @ Infosys | Multi-Agent Systems | RAG | MCP | LLM Evaluation**
 
 **🎯 I’m currently working on:**
 - Associate Lead, Agentic AI at Infosys
-- Building production-grade agentic systems: multi-agent orchestration with LangGraph, RAG pipelines with LlamaIndex + FAISS, LLM evaluation infrastructure, and MCP integrations on Azure OpenAI and AWS Bedrock
+- Building production-grade agentic systems using LangGraph, LlamaIndex, FAISS, Azure OpenAI, and AWS Bedrock
 - Designing dependency-based execution with parallel agent runs, schema-validated outputs, and audit-friendly reporting
-- Open-source builds: OpenClaw (and governance-first Supercharged variant), AutoPMO (5-agent system compressing 6-week delivery planning to ~6 hours), CareerCarve (RAG pipeline with hallucination reduction from 18% to 6%), InfoMaticaBot (Hybrid RAG + Vision Telegram bot)
+- Open-source builds: OpenClaw, Supercharged OpenClaw, AutoPMO, CareerCarve, and InfoMaticaBot
+
+<br clear="right"/>
 
 **🤝 I’m looking to collaborate on:**
 - Agentic AI systems, MCP server design, multi-agent orchestration, RAG optimization, and LLM evaluation frameworks
