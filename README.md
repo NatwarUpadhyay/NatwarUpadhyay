@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="./assets/profile/profile-card.png" width="200">
+  <img src="https://github.com/user-attachments/assets/129991e2-76f0-40f1-b112-8fe3baef5c26" width="200" alt="Natwar Upadhyay">
 </p>
 
 🏗️ Building Production-Grade Agentic AI Systems
