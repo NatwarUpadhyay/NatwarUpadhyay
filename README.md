@@ -1,4 +1,8 @@
 # 💫 About Me:
+
+<p align="center">
+  <img src="assets/profile/profile.jpg" alt="Natwar Upadhyay" width="180" />
+</p>
 Guinness World Record holder — Microsoft AI Skills Fest 2025. 🌍
 
 **🎯 I’m currently working on:**
@@ -25,6 +29,12 @@ PMP. CSM. LSSBB. Azure AI Engineer. NVIDIA Agentic AI Professional. Anthropic MC
 
 **⚡ Fun fact:**
 - Once strategized a product launch while steering a cargo ship through rough waters. Dependency management at sea and agent orchestration in AI have more in common than most people expect. 🌊
+
+## 🧭 Recruiter Snapshot
+- Role: Associate Lead, Agentic AI at Infosys Topaz
+- Focus: multi-agent orchestration, RAG pipelines, and LLM evaluation at production scale
+- Signature builds: OpenClaw, AutoPMO, CareerCarve, InfoMaticaBot
+- Credentials: PMP, CSM, LSSBB, Azure AI Engineer, NVIDIA Agentic AI Professional, Anthropic MCP Advanced Topics, INSEAD GenAI and Blockchain
 
 
 ## 🌐 Socials:
