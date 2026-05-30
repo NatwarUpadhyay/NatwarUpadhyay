@@ -3,10 +3,10 @@
 <p align="center">
   <img src="assets/profile/profile-card.png" alt="Natwar Upadhyay" width="200" />
 </p>
-Guinness World Record holder — Microsoft AI Skills Fest 2025. 🌍
+🏗️ Building Production-Grade Agentic AI Systems
 
 **🎯 I’m currently working on:**
-- Associate Lead, Agentic AI at Infosys Topaz
+- Associate Lead, Agentic AI at Infosys
 - Building production-grade agentic systems: multi-agent orchestration with LangGraph, RAG pipelines with LlamaIndex + FAISS, LLM evaluation infrastructure, and MCP integrations on Azure OpenAI and AWS Bedrock
 - Designing dependency-based execution with parallel agent runs, schema-validated outputs, and audit-friendly reporting
 - Open-source builds: OpenClaw (and governance-first Supercharged variant), AutoPMO (5-agent system compressing 6-week delivery planning to ~6 hours), CareerCarve (RAG pipeline with hallucination reduction from 18% to 6%), InfoMaticaBot (Hybrid RAG + Vision Telegram bot)
@@ -57,10 +57,6 @@ PMP. CSM. LSSBB. Azure AI Engineer. NVIDIA Agentic AI Professional. Anthropic MC
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NatwarUpadhyay&theme=github_dark" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatwarUpadhyay&theme=dark&hide_border=false" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NatwarUpadhyay&theme=github_dark" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NatwarUpadhyay&theme=github_dark" height="150" />
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
