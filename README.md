@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="assets/profile/profile.jpg" alt="Natwar Upadhyay" width="180" />
+  <img src="assets/profile/profile.jpg" alt="Natwar Upadhyay" width="180" style="border-radius: 50%; border: 3px solid #0B7285; box-shadow: 0 8px 24px rgba(0,0,0,0.25);" />
 </p>
 Guinness World Record holder — Microsoft AI Skills Fest 2025. 🌍
 
@@ -53,19 +53,29 @@ PMP. CSM. LSSBB. Azure AI Engineer. NVIDIA Agentic AI Professional. Anthropic MC
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NatwarUpadhyay&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NatwarUpadhyay&theme=github_dark)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=NatwarUpadhyay&theme=github-compact&hide_border=true)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NatwarUpadhyay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NatwarUpadhyay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NatwarUpadhyay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NatwarUpadhyay&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatwarUpadhyay&theme=dark&hide_border=false" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatwarUpadhyay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NatwarUpadhyay&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NatwarUpadhyay&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<h3 align="center">✍️ Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NatwarUpadhyay&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="center">🔝 Top Contributed Repo</h3>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=NatwarUpadhyay&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NatwarUpadhyay&icon=4&color=1)](https://visitcount.itsvg.in)
