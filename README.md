@@ -55,7 +55,7 @@ PMP. CSM. LSSBB. Azure AI Engineer. NVIDIA Agentic AI Professional. Anthropic MC
 ![](https://github-readme-activity-graph.vercel.app/graph?username=NatwarUpadhyay&theme=github-compact&hide_border=true)
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NatwarUpadhyay&theme=github_dark" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatwarUpadhyay&theme=dark&hide_border=false" height="165" />
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
