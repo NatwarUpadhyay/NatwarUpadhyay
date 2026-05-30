@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/129991e2-76f0-40f1-b112-8fe3baef5c26" width="200" alt="Natwar Upadhyay">
+  <img width="2048" height="2064" alt="Gemini_Generated_Image_1oe6k21oe6k21oe6" src="https://github.com/user-attachments/assets/8112cc36-7214-4f0e-b9c4-542a7a571b02" />
 </p>
 
 🏗️ Building Production-Grade Agentic AI Systems
