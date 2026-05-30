@@ -1,7 +1,10 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="assets/profile/profile-card.png" alt="Natwar Upadhyay" width="200" />
+  <img src="assets/profile/profile-card.png"
+       alt="Natwar Upadhyay"
+       width="200"
+       style="border:none; border-radius:0;">
 </p>
 🏗️ Building Production-Grade Agentic AI Systems
 <br>
