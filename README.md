@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/a83e0689-db34-4425-92fb-e6274ac99baf" width="220" alt="Natwar Upadhyay">
 </p>
 
