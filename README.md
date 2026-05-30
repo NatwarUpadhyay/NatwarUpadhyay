@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="assets/profile/profile.jpg" alt="Natwar Upadhyay" width="180" style="border-radius: 50%; border: 3px solid #0B7285; box-shadow: 0 8px 24px rgba(0,0,0,0.25);" />
+  <img src="assets/profile/profile-circle.png" alt="Natwar Upadhyay" width="180" />
 </p>
 Guinness World Record holder — Microsoft AI Skills Fest 2025. 🌍
 
@@ -64,7 +64,11 @@ PMP. CSM. LSSBB. Azure AI Engineer. NVIDIA Agentic AI Professional. Anthropic MC
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NatwarUpadhyay&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://img.shields.io/badge/Guinness%20World%20Record-2025-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PMP-Certified-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NVIDIA-Agentic%20AI%20Professional-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-MCP%20Advanced-1A1A1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/INSEAD-GenAI%20%2B%20Blockchain-002D72?style=for-the-badge" />
 </p>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
@@ -74,7 +78,32 @@ PMP. CSM. LSSBB. Azure AI Engineer. NVIDIA Agentic AI Professional. Anthropic MC
 
 <h3 align="center">🔝 Top Contributed Repo</h3>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=NatwarUpadhyay&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <a href="https://github.com/NatwarUpadhyay/AutoPMO">
+    <img src="https://img.shields.io/github/stars/NatwarUpadhyay/AutoPMO?style=for-the-badge&label=AutoPMO%20Stars" />
+  </a>
+  <a href="https://github.com/NatwarUpadhyay/Supercharged_Openclaw">
+    <img src="https://img.shields.io/github/stars/NatwarUpadhyay/Supercharged_Openclaw?style=for-the-badge&label=Supercharged%20OpenClaw%20Stars" />
+  </a>
+  <a href="https://github.com/NatwarUpadhyay/agentic-ai-project-delivery-risk-engine">
+    <img src="https://img.shields.io/github/stars/NatwarUpadhyay/agentic-ai-project-delivery-risk-engine?style=for-the-badge&label=Risk%20Engine%20Stars" />
+  </a>
+  <a href="https://github.com/NatwarUpadhyay/InformaticaBot">
+    <img src="https://img.shields.io/github/stars/NatwarUpadhyay/InformaticaBot?style=for-the-badge&label=InformaticaBot%20Stars" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/NatwarUpadhyay/AutoPMO">
+    <img src="https://img.shields.io/github/last-commit/NatwarUpadhyay/AutoPMO?style=for-the-badge&label=AutoPMO%20Last%20Commit" />
+  </a>
+  <a href="https://github.com/NatwarUpadhyay/Supercharged_Openclaw">
+    <img src="https://img.shields.io/github/last-commit/NatwarUpadhyay/Supercharged_Openclaw?style=for-the-badge&label=Supercharged%20OpenClaw%20Last%20Commit" />
+  </a>
+  <a href="https://github.com/NatwarUpadhyay/agentic-ai-project-delivery-risk-engine">
+    <img src="https://img.shields.io/github/last-commit/NatwarUpadhyay/agentic-ai-project-delivery-risk-engine?style=for-the-badge&label=Risk%20Engine%20Last%20Commit" />
+  </a>
+  <a href="https://github.com/NatwarUpadhyay/InformaticaBot">
+    <img src="https://img.shields.io/github/last-commit/NatwarUpadhyay/InformaticaBot?style=for-the-badge&label=InformaticaBot%20Last%20Commit" />
+  </a>
 </p>
 
 ---
