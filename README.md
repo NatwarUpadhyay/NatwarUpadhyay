@@ -1,8 +1,11 @@
 # 💫 About Me:
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/a83e0689-db34-4425-92fb-e6274ac99baf" width="220" alt="Natwar Upadhyay">
-</p>
+<img
+  align="right"
+  src="https://github.com/user-attachments/assets/a83e0689-db34-4425-92fb-e6274ac99baf"
+  width="220"
+  alt="Natwar Upadhyay"
+/>
 
 🏗️ Building Production-Grade Agentic AI Systems
 <br>
